@@ -1,0 +1,8 @@
+flask
+opencv-python
+numpy
+openvino
+imageio
+OpenEXR
+Imath
+werkzeug
