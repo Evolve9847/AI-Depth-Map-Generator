@@ -1,8 +1,5 @@
-flask
-opencv-python
-numpy
-openvino
-imageio
-OpenEXR
-Imath
-werkzeug
+Flask==2.2.5
+numpy==1.24.3
+opencv-python==4.8.0.74
+openvino==2023.0.0
+Pillow==9.5.0
