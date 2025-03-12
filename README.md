@@ -53,7 +53,7 @@ pip install -r requirements.txt
 4️⃣ View and download the generated depth maps.
 
 📂 Project Structure
-graphql
+plaintext
 Copy
 Edit
 AI-Depth-Map-Generator/
@@ -67,3 +67,4 @@ AI-Depth-Map-Generator/
 │── Preview.PNG              # UI preview image
 💡 License
 This project is open-source and available under the MIT License.
+
